@@ -1,4 +1,3 @@
-<<<<<<< .mine
 hiii
 
 
@@ -7,13 +6,4 @@ hiii
 
 Mouni
 
-=======
-hiii
-
-
-
-
-
-
 anusha
->>>>>>> .theirs
