@@ -51,7 +51,11 @@ Naresh
 
 suji
 
+<<<<<<< .mine
 Mom
+=======
+Mouni
+>>>>>>> .theirs
 Sivagama sundari
 
 Dhivya
