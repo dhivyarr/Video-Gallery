@@ -17,7 +17,11 @@ xyz
 
 efghijklmno
 
+<<<<<<< .mine
 abcdxyz
+=======
+abcdefg
+>>>>>>> .theirs
 
 
 qwertyuiopasdfghjklzxcvbnm,wertyiopsdfvbnm wertcbb g vhdts fdfdxgv bn mn  j hu gguguguygug  uiuiuuguyfd  huuyuyyyuyuyug jhhvudrseewwuio gghxdxdfdfdghj ghdfdsdsffgfcbjhhghgfxfdxdfxfxcccgcfgxgfx ghhvcxsdrtyujvvnk vccxddkhkjhmn cf mjiuyrdvkhgutyrtwvhgjhlkjjhlkjhasaaaaaaaaaaaaaasdfgh jkkhgfghjkl
